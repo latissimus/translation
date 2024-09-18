@@ -783,7 +783,7 @@
   },
   "TAGS": {
     "INSERT_PROPERTIES": "Eigenschaften einfügen",
-    "PINNED_TAGS": "Angepinnte Etikett",
+    "PINNED_TAGS": "Angepinntes Etikett",
     "SEARCH_PLACEHOLDER": "Suchen Sie nach einem vorhandenen Etikett, um es hinzuzufügen",
     "TAG": "Etikett",
     "TAG_WITH_COUNT_one": "{{count, number}} Etiketten",
